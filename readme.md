@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
   <!-- -color:#606474 -->
-    <div style='background: linear-gradient(to bottom, #606474, #25e8a7, #21e0af, #1cdbb6, #19d6bc, #17cac9, #16c9ca,  #18c6ce, #0dc0d5, #10badc, #0daeea, #606474); width:80px; height:80px'>
+    <div style='background: #606474; width:80px; height:80px'>
         <img src="img/logo.png" alt="Logo" width="80" height="80">
     </div>
   </a>
@@ -37,7 +37,7 @@
 
 ## About The Project
 
-[Demo](link)
+[Demo](https://zhuxiaoyu1019.github.io/geog495-final-project/)
 ![Private Schools Near Me](img/app-screenshot.png)
 Map of Private Schools (independent schools) throughout the United States in 2017-18.
 
