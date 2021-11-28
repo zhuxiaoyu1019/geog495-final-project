@@ -80,7 +80,7 @@ To get a local copy up and running follow these simple example steps.
 1. Get a free API Key at [Mapbox](https://www.mapbox.com/)
 2. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/zhuxiaoyu1019/geog495-final-project.git
    ```
 3. Enter your API in `script.js`
    ```js
